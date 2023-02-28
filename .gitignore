@@ -46,5 +46,6 @@ vignettes/*.pdf
 *.bmp
 *.jpg
 *.tif
+*.html
 
 

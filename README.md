@@ -11,4 +11,4 @@ We provide this code so that interested readers may understand our analytical me
 - Quest Diagnostics (https://www.questpharmasolutions.com/pharma/healthcare-analytics-solutions/solutions/pharma-analytics/quest-data-insights-platform/)
 - The American Men’s Internet Survey (AMIS, https://emoryamis.org/data-requests/).
 
-All code is run in the proper order by sourcing the file `00 master script.R`.
+All code is run in the proper order by sourcing the file `00.master_script.R`.
